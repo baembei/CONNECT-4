@@ -1,0 +1,3 @@
+C:/Users/imwon/CLionProjects/Semestralka/cmake-build-debug/CMakeFiles/Semestralka.dir
+C:/Users/imwon/CLionProjects/Semestralka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/imwon/CLionProjects/Semestralka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
